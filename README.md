@@ -20,5 +20,3 @@ C++
 
 ## Author
 Sadia Shafiq
-
-Ammara Naveed
